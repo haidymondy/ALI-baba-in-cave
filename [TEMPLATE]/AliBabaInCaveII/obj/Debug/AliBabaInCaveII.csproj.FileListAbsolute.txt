@@ -1,0 +1,32 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[4] Ali Baba in Cave\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csprojResolveAssemblyReference.cache
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csproj.AssemblyReference.cache
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+C:\Users\Hazem\Desktop\[TEMPLATE]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
